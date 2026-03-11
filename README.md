@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXgwNTZieGJudTNsYm9vcW5tNWc1MXo0NmU2YXN2YjIxemFjMXJlNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/pr1dbVONbGeVvSiECh/giphy.gif" width="35">
+## Hi there <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJ5MjI5MGtpenZpN3oydnRrcGZzdWxjcjgycHhldjM5azNnY3MxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ILUFlvPaXXHwX6D5CZ/giphy.gif" width="35">
 
 
 I'm Lincoln, a Computer Science and Data Science student based in Canada, originally from Myanmar.
