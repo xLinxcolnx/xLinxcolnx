@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXgwNTZieGJudTNsYm9vcW5tNWc1MXo0NmU2YXN2YjIxemFjMXJlNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/pr1dbVONbGeVvSiECh/giphy.gif" width="35">
+
 
 I'm Lincoln, a Computer Science and Data Science student based in Canada, originally from Myanmar.
 
@@ -15,8 +16,9 @@ Let's connect!
 </a>
 <p>
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack 
 
+### Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
@@ -39,3 +41,4 @@ Let's connect!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40"/>
 </p>
+
