@@ -11,7 +11,7 @@ Outside of tech, I enjoy creating videos and graphic design. I spend time playin
 
 Let's connect!
 <p></p>
-<a href="https://www.linkedin.com/in/linhtet-aung06" target="_blank">
+<a href="https://www.linkedin.com/in/linhtet-aung" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
 <p>
